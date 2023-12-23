@@ -1,5 +1,6 @@
 package com.example.layeredarchitecture.controller;
 
+import com.example.layeredarchitecture.dao.QueryDao;
 import com.example.layeredarchitecture.dao.custom.QueryDao;
 import com.example.layeredarchitecture.dao.custom.impl.QueryDaoImpl;
 import com.example.layeredarchitecture.model.ViewOrderDTO;
