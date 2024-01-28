@@ -1,6 +1,6 @@
 # Layered Architecture Project
 
-Welcome to the Layered Architecture project! This project is developed for educational purposes, specifically to teach Layered Architecture concepts to students in the GDSE program at IJSE.
+Welcome to the Layered Architecture project! This project is developed for educational purposes, specifically to learn Layered Architecture concepts.
 
 ## Overview
 
@@ -51,7 +51,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/udarasan/layered-architecture.git
+   gh repo clone ChathuminiBandara/layered-architecture
    ```
 
 2. Open the project in your IDE.
